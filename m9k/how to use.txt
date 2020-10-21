@@ -2,3 +2,4 @@ Feel free to use our premade m9k shipment package if m9k is added to your server
 
 -----------------------
 
+1. Copy the content in shipments.lua into darkrpmodification/lua/darkrp_customthings/shipments.lua
