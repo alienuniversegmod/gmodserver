@@ -9,3 +9,7 @@ https://www.fiverr.com/alienuniverserp
 Follow this guide to mount css game content to your dedicated server
  https://nodecraft.com/support/games/gmod/mounting-css-content-to-your-garrys-mod-server
  
+ DarkRP Gamemode files
+ 
+ https://github.com/FPtje/DarkRP
+ 
