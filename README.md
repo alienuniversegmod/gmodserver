@@ -13,3 +13,4 @@ Follow this guide to mount css game content to your dedicated server
  
  https://github.com/FPtje/DarkRP
  
+If you want any premade config, message me.
